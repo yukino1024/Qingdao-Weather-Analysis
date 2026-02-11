@@ -1,4 +1,4 @@
-# A small university course project for analyzing weather data in Qingdao, China.
+# A small course project for analyzing weather data in Qingdao, China.
 
 ## Overview
 This project demonstrates a basic data analysis workflow using Python:

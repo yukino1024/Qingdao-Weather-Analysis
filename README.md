@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project demonstrates a basic data analysis pipeline using **Python** and **MySQL**. It covers the entire workflow from raw data acquisition to database persistence.
 
-> 📄 **Project Details:** > You can find the comprehensive analysis and methodology in my **[Course Report (PDF, Chinese)]**.  
+> 📄 **Project Details:** > You can find the comprehensive analysis and methodology in my **Course Report (PDF, Chinese)**.  
 
 
 ---

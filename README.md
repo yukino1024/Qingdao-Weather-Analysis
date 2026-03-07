@@ -2,9 +2,9 @@
 ### 📊 青岛天气数据分析项目
 
 ## 📌 Overview | 项目概览
-This project demonstrates a basic data analysis pipeline using **Pandas** and **MySQL**.
+This project demonstrates a basic data analysis pipeline using **Pandas**.
 
-本项目展示了基于 Pandas 与 MySQL 的基础数据分析流水线
+本项目展示了基于 Pandas 的基础数据分析流水线
 
 > 📄 **Project Details:** Comprehensive analysis and methodology are available in my **Course Report (PDF, Chinese)**.
 

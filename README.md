@@ -11,4 +11,4 @@ AnalyseData: Analyzes the data and generates visualizations
 
 SaveData: Stores the processed data into a MySQL database
 
-### Built for a Computer Science course(Data Analyse) project.
+### Course project for Data Analysis.

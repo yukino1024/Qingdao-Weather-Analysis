@@ -54,6 +54,13 @@ This is an end-to-end data science project based on Python, covering web scrapin
 
 ---
 
+## 📄 报告详情 | Documentation
+关于本项目的方法论及详细技术说明，请参阅课程报告：
+For more technical details and methodology, please refer to:
+2024春季《大学计算机》课程报告 (PDF)
+
+---
+
 ## 📂 文件结构 | Project Structure
 
 ```text
@@ -64,7 +71,5 @@ This is an end-to-end data science project based on Python, covering web scrapin
 ├── Data/             # 原始及处理后的数据 | Raw and processed data
 └── Report.pdf        # 课程项目报告 | Full Project Report
 
-## 📄 报告详情 | Documentation
-关于本项目的方法论及详细技术说明，请参阅课程报告：
-For more technical details and methodology, please refer to:
-2024春季《大学计算机》课程报告 (PDF)
+---
+
